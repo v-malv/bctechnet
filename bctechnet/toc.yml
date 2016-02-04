@@ -12,6 +12,3 @@
     - name: OP WindowsServer
       href: /opwdss/
       homepage: /opwdss/
-    - name: OP MSDN Windows
-      href: /opwindows/
-      homepage: /opwindows/
