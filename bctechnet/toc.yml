@@ -1,0 +1,21 @@
+- name: Documentation 
+  href: https://msdnnext.redmond.corp.microsoft.com
+  homepage:  https://msdnnext.redmond.corp.microsoft.com
+  items:
+  - name: Next Homepage
+    href:  https://msdnnext.redmond.corp.microsoft.com
+    homepage:  https://msdnnext.redmond.corp.microsoft.com
+    items:
+    - name: OP TenchNet
+      href: /optechnet/
+      homepage: /optechnet/
+    - name: Reference
+      href: 
+      homepage:
+      items:
+        - name: Microsoft.IdentityModel.Clients.ActiveDirectory 
+          href: 
+          homepage:
+        - name: Microsoft.IdentityModel.Clients.ActiveDirectory.Internal
+          href: 
+          homepage: 
