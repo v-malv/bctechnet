@@ -12,10 +12,3 @@
     - name: OP WindowsServer
       href: /opwdss/
       homepage: /opwdss/
-      items:
-        - name: Microsoft.IdentityModel.Clients.ActiveDirectory 
-          href: 
-          homepage:
-        - name: Microsoft.IdentityModel.Clients.ActiveDirectory.Internal
-          href: 
-          homepage: 
