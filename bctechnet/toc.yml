@@ -12,3 +12,6 @@
     - name: OP WindowsServer
       href: /opwdss/
       homepage: /opwdss/
+    - name: OP System Center
+      href: /opsc/
+      homepage: /opsc/
