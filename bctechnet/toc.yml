@@ -3,8 +3,8 @@
   homepage:  
   items:
   - name: Next Homepage
-    href:  https://technetnext.redmond.corp.microsoft.com
-    homepage:  https://technetnext.redmond.corp.microsoft.com
+    href:  https://ppe.technet.microsoft.com
+    homepage:  https://ppe.technet.microsoft.com
     items:
     - name: OP TenchNet
       href: /optechnet/
